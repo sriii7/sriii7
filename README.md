@@ -1,3 +1,4 @@
+![logo](https://github.com/sriii7/sriportfolio/blob/main/photos/githubbannergif.gif)
 <h1 align="center">Hi 👋, I'm Sriman Bangla</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
