@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://sriii7.github.io/sriportfolio/](https://sriii7.github.io/sriportfolio/)
 
-- ⚡ Fun fact **I think I am curious!!!**
+- ⚡ Fun fact : **I'm fueled by curiosity!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
